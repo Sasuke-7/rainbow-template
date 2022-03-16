@@ -1,3 +1,5 @@
+import { sayHello } from '@baby';
+
 const helloWorld = 'Hello World!';
 
 function printHelloWorld() {
@@ -5,3 +7,4 @@ function printHelloWorld() {
 }
 
 printHelloWorld();
+sayHello();

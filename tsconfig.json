@@ -7,7 +7,9 @@
     /* Modules */
     "module": "commonjs",
     "baseUrl": "./",
-    "paths": {},
+    "paths": {
+			"@baby": ["./src/examples/baby"]
+		},
     "typeRoots": [
 			"node_modules/@types"
 		],

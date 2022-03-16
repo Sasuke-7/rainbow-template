@@ -14,7 +14,9 @@ module.exports = {
 		[
 			'module-resolver',
 			{
-				alias: {}
+				alias: {
+					'@baby': './src/examples/baby'
+				}
 			},
 		],
 	],
