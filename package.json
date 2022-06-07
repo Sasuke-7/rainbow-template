@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "The rainbow template for node js projects",
   "main": "dist/index.js",
-  "repository": "https://github.com/sasuke-7/rainbow-template",
+  "repository": "https://github.com/davidszz/rainbow-template",
   "author": {
-    "name": "Sasuke-7",
+    "name": "davidszz",
     "email": "davidkunschventurini@gmail.com"
   },
   "license": "MIT",
